@@ -1,8 +1,7 @@
-$ vim ./example.go
-$ go build
-$ ./example.go world
-Hi world
-$ vim ./example.go
-$ go build
-$ ./example.go world
-Bye world
+public class Main  
+{  
+public static void main(String[] args)  
+{  
+    System.out.println("GoodBye World!");  
+}  
+}
